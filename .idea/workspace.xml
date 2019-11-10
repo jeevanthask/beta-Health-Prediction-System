@@ -17,6 +17,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nandika\Health-Prediction-System\healthprediction\src\components" />
+      <recent name="C:\Users\nandika\Health-Prediction-System\healthprediction\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -39,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573215590590</updated>
-      <workItem from="1573215593057" duration="1929000" />
+      <workItem from="1573215593057" duration="2471000" />
+      <workItem from="1573355960482" duration="5490000" />
     </task>
     <servers />
   </component>
@@ -51,7 +58,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
