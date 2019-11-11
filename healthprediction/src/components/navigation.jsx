@@ -5,10 +5,10 @@ class Navigation extends React.Component{
     render() {
         return(
             <div>
-                <NavLink to = "/">Home</NavLink>
-                <NavLink to = "/admin">Admin</NavLink>
-                <NavLink to = "/patient">Patient</NavLink>
-                <NavLink to = "/doctor">Doctor</NavLink>
+                <NavLink to = "/" className="btn btn-warning m-2">Home</NavLink>
+                <NavLink to = "/admin" className="btn btn-primary m-2">Admin</NavLink>
+                <NavLink to = "/patient" className="btn btn-warning m-2">Patient</NavLink>
+                <NavLink to = "/doctor" className="btn btn-primary m-2">Doctor</NavLink>
             </div>
         )
     }

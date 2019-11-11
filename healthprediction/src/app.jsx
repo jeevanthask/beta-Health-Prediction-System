@@ -9,7 +9,7 @@ import WelcomeScreen from "./components/welcomescreen";
 class App extends React.Component{
     render() {
         return(
-            <div>
+            <div className="container-fluid">
                 <BrowserRouter>
                     <Navigation/>
                     <Switch>
