@@ -8,6 +8,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -15,9 +22,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/healthprediction/src/assets/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nandika\Health-Prediction-System\healthprediction\src\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nandika\Health-Prediction-System\healthprediction\src\components" />
       <recent name="C:\Users\nandika\Health-Prediction-System\healthprediction\src" />
@@ -48,7 +59,7 @@
       <workItem from="1573215593057" duration="2471000" />
       <workItem from="1573355960482" duration="5823000" />
       <workItem from="1573381383799" duration="72000" />
-      <workItem from="1573467444537" duration="864000" />
+      <workItem from="1573467444537" duration="3753000" />
     </task>
     <servers />
   </component>

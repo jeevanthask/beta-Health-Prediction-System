@@ -4,7 +4,16 @@ import React from 'react'
 class WelcomeScreen extends React.Component{
     render() {
         return(
-            <h1>fromt the home</h1>
+            <div className="container-fluid">
+
+                <div className="row">
+                    <div className="col-md-12">
+                        <h1>from the home </h1>
+                    </div>
+                </div>
+
+            </div>
+
 
         )
     }
