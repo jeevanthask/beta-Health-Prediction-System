@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,8 +23,8 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phoneshoppoweredbyreactv.3" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +64,8 @@
       <workItem from="1573735154524" duration="7356000" />
       <workItem from="1573784357047" duration="112000" />
       <workItem from="1574308205456" duration="927000" />
-      <workItem from="1575108784113" duration="1769000" />
+      <workItem from="1575108784113" duration="3198000" />
+      <workItem from="1575122619739" duration="3817000" />
     </task>
     <servers />
   </component>

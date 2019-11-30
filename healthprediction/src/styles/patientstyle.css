@@ -1,0 +1,12 @@
+body{
+    background-color: #FF9100;
+}
+
+
+.form-control{
+    width: 50%;
+}
+
+.btn-danger{
+    width: 20%;
+}
